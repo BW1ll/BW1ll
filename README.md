@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python3 and Linux bash scripitng
+- 🌱 I’m currently learning: Python3 and Linux bash scripitng
+- 📫 How to reach me: brian@lunawhn.com
+- 😄 Pronouns: I, me, he, himself, you, it, that, they, each, few, many, who, whoever, whose, someone, everybody...
 
 ------------------
 ![google-it-automation-professional-certificate.png](https://github.com/BW1ll/BW1ll/blob/master/google-it-automation-professional-certificate.png)
