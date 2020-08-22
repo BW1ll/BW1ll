@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python3 and Linux bash scripitng
+
+------------------
 ![google-it-automation-professional-certificate.png](https://github.com/BW1ll/BW1ll/blob/master/google-it-automation-professional-certificate.png)
 <!--
 **BW1ll/BW1ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
