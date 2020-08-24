@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Python3 and Linux bash scripitng
 - 📫 How to reach me: brian@lunawhn.com
 - 😄 Pronouns: I, me, he, himself, you, it, that, they, each, few, many, who, whoever, whose, someone, everybody...
-- 🔭 I’m currently working on organizing my repose so that I can make them publice.
+- 🔭 I’m currently working on organizing my repos so that I can make them publice.
 
 ------------------
 ![google-it-automation-professional-certificate.png](https://github.com/BW1ll/BW1ll/blob/master/google-it-automation-professional-certificate.png)
